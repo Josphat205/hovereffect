@@ -1,3 +1,7 @@
+*{
+    font-family: 'Arial';
+}
+
 .landing{
     display: flex;
     justify-content: space-around;
